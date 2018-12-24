@@ -14,9 +14,6 @@ Created on Mon Dec  3 14:23:07 2018
 
 import requests
 
-#df_China_Geo = pd.read_excel('Geo_Data.xlsx', sheet_name = 'All_China_Location_NotNull')
-#df_China_Geo = df_China_Geo[df_China_Geo['Matched'] == 0]
-
 
 
 class BdMap:
